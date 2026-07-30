@@ -47,10 +47,6 @@ class Khalil:
 </div>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Autumn1337&theme=transparent&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&sideLabels=9399b2&sideNums=cdd6f4&currStreakNum=cdd6f4&dates=9399b2&hide_border=true" alt="Streak stats"/>
-</div>
-
-<div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Autumn1337&bg_color=00000000&color=9399b2&title_color=cba6f7&line=cba6f7&point=fab387&hide_border=true&custom_title=Contribution⠀Graph" alt="Activity graph"/>
 </div>
 
