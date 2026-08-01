@@ -29,21 +29,33 @@ class Khalil:
 ## Featured
 
 <div align="center">
-    <a href="https://github.com/Autumn1337/DynamicWAM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Autumn1337&repo=DynamicWAM&theme=transparent&title_color=cba6f7&icon_color=fab387&text_color=9399b2&hide_border=true" alt="DynamicWAM"/></a>
-</div>
-
-<div align="center">
-    <b>DynamicWAM</b> — an exact-time motion-conditioned world-action model for dynamic bimanual manipulation.
+    <a href="https://github.com/Autumn1337/DynamicWAM"><b>DynamicWAM</b></a> — an exact-time motion-conditioned world-action model for dynamic bimanual manipulation.
     <br/>
     <a href="https://dynamicwam.github.io/">Project page</a> ·
     <a href="https://huggingface.co/KhalilGao/DynamicWAM">Checkpoint</a>
+    <br/>
+    <br/>
+    <a href="https://github.com/Autumn1337/DynamicWAM"><img src="https://img.shields.io/github/stars/Autumn1337/DynamicWAM?style=for-the-badge&color=fab387&labelColor=1C2325&logo=github&logoColor=fab387" alt="Stars"/></a>
+    <img src="https://img.shields.io/github/languages/top/Autumn1337/DynamicWAM?style=for-the-badge&color=cba6f7&labelColor=1C2325" alt="Top language"/>
+    <img src="https://img.shields.io/github/license/Autumn1337/DynamicWAM?style=for-the-badge&color=f5c2e7&labelColor=1C2325" alt="License"/>
+    <img src="https://img.shields.io/github/last-commit/Autumn1337/DynamicWAM?style=for-the-badge&color=94e2d5&labelColor=1C2325" alt="Last commit"/>
 </div>
 
 ## Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Autumn1337&show_icons=true&theme=transparent&title_color=cba6f7&icon_color=fab387&text_color=9399b2&hide_border=true" height="165" alt="GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Autumn1337&layout=compact&theme=transparent&title_color=cba6f7&text_color=9399b2&hide_border=true" height="165" alt="Top languages"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Autumn1337/Autumn1337/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+        <img src="https://raw.githubusercontent.com/Autumn1337/Autumn1337/main/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Autumn1337/Autumn1337/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+        <img src="https://raw.githubusercontent.com/Autumn1337/Autumn1337/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Autumn1337/Autumn1337/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+        <img src="https://raw.githubusercontent.com/Autumn1337/Autumn1337/main/profile-summary-card-output/github/4-productive-time.svg" alt="Productive time"/>
+    </picture>
 </div>
 
 <div align="center">
