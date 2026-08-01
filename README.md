@@ -29,16 +29,12 @@ class Khalil:
 ## Featured
 
 <div align="center">
-    <a href="https://github.com/Autumn1337/DynamicWAM"><b>DynamicWAM</b></a> — an exact-time motion-conditioned world-action model for dynamic bimanual manipulation.
-    <br/>
-    <a href="https://dynamicwam.github.io/">Project page</a> ·
-    <a href="https://huggingface.co/KhalilGao/DynamicWAM">Checkpoint</a>
+    <a href="https://dynamicwam.github.io/"><b>DynamicWAM</b></a> — an exact-time motion-conditioned world-action model for dynamic bimanual manipulation.
     <br/>
     <br/>
-    <a href="https://github.com/Autumn1337/DynamicWAM"><img src="https://img.shields.io/github/stars/Autumn1337/DynamicWAM?style=for-the-badge&color=fab387&labelColor=1C2325&logo=github&logoColor=fab387" alt="Stars"/></a>
-    <img src="https://img.shields.io/github/languages/top/Autumn1337/DynamicWAM?style=for-the-badge&color=cba6f7&labelColor=1C2325" alt="Top language"/>
-    <img src="https://img.shields.io/github/license/Autumn1337/DynamicWAM?style=for-the-badge&color=f5c2e7&labelColor=1C2325" alt="License"/>
-    <img src="https://img.shields.io/github/last-commit/Autumn1337/DynamicWAM?style=for-the-badge&color=94e2d5&labelColor=1C2325" alt="Last commit"/>
+    <a href="https://dynamicwam.github.io/"><img src="https://img.shields.io/badge/Project%20page-dynamicwam.github.io-fab387?style=for-the-badge&labelColor=1C2325" alt="Project page"/></a>
+    <a href="https://huggingface.co/KhalilGao/DynamicWAM"><img src="https://img.shields.io/badge/Checkpoint-Hugging%20Face-f5c2e7?style=for-the-badge&logo=huggingface&logoColor=f5c2e7&labelColor=1C2325" alt="Checkpoint"/></a>
+    <img src="https://img.shields.io/badge/License-Apache--2.0-94e2d5?style=for-the-badge&labelColor=1C2325" alt="License"/>
 </div>
 
 ## Stats
