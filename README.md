@@ -52,10 +52,6 @@ class Khalil:
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Autumn1337/Autumn1337/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
         <img src="https://raw.githubusercontent.com/Autumn1337/Autumn1337/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages"/>
     </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Autumn1337/Autumn1337/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
-        <img src="https://raw.githubusercontent.com/Autumn1337/Autumn1337/main/profile-summary-card-output/github/4-productive-time.svg" alt="Productive time"/>
-    </picture>
 </div>
 
 <div align="center">
