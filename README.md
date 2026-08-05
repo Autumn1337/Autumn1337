@@ -55,10 +55,6 @@ class Khalil:
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Autumn1337&bg_color=00000000&color=9399b2&title_color=cba6f7&line=cba6f7&point=fab387&hide_border=true&custom_title=Contribution⠀Graph" alt="Activity graph"/>
-</div>
-
-<div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Autumn1337/Autumn1337/output/github-snake-dark.svg"/>
         <img src="https://raw.githubusercontent.com/Autumn1337/Autumn1337/output/github-snake.svg" alt="Contribution snake"/>
